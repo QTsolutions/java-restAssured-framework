@@ -10,9 +10,9 @@ To run this project, you need to have java, maven, eclipse and testng installed 
 ##Run the test:
 
 First method:-
- mvn clean
- mvn test
+ > mvn clean
+ > mvn test
  
  Second method:-
- Import the project in eclipse
- Open UserTests.java file present in src/test/java api.test package, right click > Run As > Testng Test
+ > Import the project in eclipse
+ > Open UserTests.java file present in src/test/java api.test package, right click > Run As > Testng Test
